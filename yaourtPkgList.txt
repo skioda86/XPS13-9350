@@ -1,0 +1,19 @@
+local/chromium-pepper-flash 1:21.0.0.242-1
+local/codecs64 20071007-1
+local/geoclue 0.12.99-2
+local/libappindicator-gtk3 12.10.0-7
+local/libappindicator-sharp 12.10.0-7
+local/libdbusmenu-glib 16.04.0-1
+local/libdbusmenu-gtk3 16.04.0-1
+local/libindicator-gtk3 12.10.1-6
+local/ncurses5-compat-libs 6.0-3
+local/pkgtools 25-5
+local/powerline-fonts-git r100.a44abd0-2
+local/powerstat-git 0.01.09.r240.g960efb2-1
+local/qt-installer-framework 2.0.3-1 (qt qt5)
+local/smartgit 7.1.3-1
+local/sopcast-player 0.8.5-2
+local/tungsten 1.2-1
+local/victory-icon-theme 1.0-4
+local/vivacious-colors 1.4-1
+local/vivacious-folder-colors-addon 1.1-3

@@ -1,0 +1,22 @@
+# 
+# /etc/fstab: static file system information
+#
+# <file system>	<dir>	<type>	<options>	<dump>	<pass>
+# /dev/nvme0n1p5 LABEL=Arch\134x20Linux
+UUID=33786f27-8bf3-4c54-afaf-cff97f583b0a	/         	btrfs     	rw,nodev,noatime,compress=lzo,ssd,space_cache,subvolid=257,subvol=/__active/ROOT,subvol=__active/ROOT	0 0
+
+# /dev/nvme0n1p5 LABEL=Arch\134x20Linux
+UUID=33786f27-8bf3-4c54-afaf-cff97f583b0a	/home     	btrfs     	rw,nosuid,nodev,noatime,compress=lzo,ssd,space_cache,subvolid=258,subvol=/__active/home,subvol=__active/home	0 0
+
+# /dev/nvme0n1p5 LABEL=Arch\134x20Linux
+UUID=33786f27-8bf3-4c54-afaf-cff97f583b0a	/opt      	btrfs     	rw,nosuid,nodev,noatime,compress=lzo,ssd,space_cache,subvolid=259,subvol=/__active/opt,subvol=__active/opt	0 0
+
+# /dev/nvme0n1p5 LABEL=Arch\134x20Linux
+UUID=33786f27-8bf3-4c54-afaf-cff97f583b0a	/var      	btrfs     	rw,nosuid,nodev,noexec,noatime,compress=lzo,ssd,space_cache,subvolid=260,subvol=/__active/var,subvol=__active/var	0 0
+
+# /dev/nvme0n1p5 LABEL=Arch\134x20Linux
+UUID=33786f27-8bf3-4c54-afaf-cff97f583b0a	/run/btrfs-root      	btrfs     	rw,nosuid,nodev,noatime,compress=lzo,ssd,space_cache	0 0
+
+# /dev/nvme0n1p2
+UUID=4C82-0071      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,errors=remount-ro	0 2
+

@@ -1,6 +1,7 @@
 local/chromium-pepper-flash 1:21.0.0.242-1
 local/codecs64 20071007-1
-local/gtk-theme-arc-git 531.cc20a2e-1
+local/conky-lua 1.10.1-7
+local/gtk-theme-arc-git 538.d32e573-1
 local/libdbusmenu-glib 16.04.0-1
 local/libdbusmenu-gtk3 16.04.0-1
 local/libindicator-gtk3 12.10.1-6

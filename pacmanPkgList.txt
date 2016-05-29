@@ -21,7 +21,7 @@ chromium
 chromium-pepper-flash
 clementine
 codecs64
-conky
+conky-lua
 coreutils
 cryptsetup
 cups
@@ -64,6 +64,7 @@ glibc
 gnome-2048
 gnome-alsamixer
 gnome-backgrounds
+gnome-boxes
 gnome-builder
 gnome-calculator
 gnome-calendar
@@ -120,6 +121,7 @@ gstreamer0.10-base-plugins
 gstreamer0.10-ffmpeg
 gstreamer0.10-good-plugins
 gstreamer0.10-ugly-plugins
+gtk-theme-arc-git
 gucharmap
 gutenprint
 gvfs
@@ -143,6 +145,7 @@ iputils
 jfsutils
 less
 lib32-alsa-plugins
+lib32-curl
 lib32-libpulse
 lib32-mesa-libgl
 libreoffice-fresh
@@ -172,6 +175,7 @@ ncurses5-compat-libs
 net-tools
 netctl
 ntfs-3g
+openssh
 orca
 pacman
 paprefs
@@ -192,6 +196,7 @@ psmisc
 quadrapassel
 reiserfsprogs
 rfkill
+rsync
 rygel
 s-nail
 samba
@@ -212,8 +217,6 @@ tali
 tar
 texinfo
 tilda
-tlp
-tlp-rdw
 totem
 tracker
 transmission-gtk
@@ -222,11 +225,13 @@ ttf-liberation
 tungsten
 usbutils
 util-linux
+vagrant
 vi
 victory-icon-theme
 vim
 vinagre
 vino
+virtualbox
 vivacious-colors
 vivacious-folder-colors-addon
 vlc
